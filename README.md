@@ -8,7 +8,7 @@
 - 💞️ I'm looking to collaborate on projects using python, machine learning, business intelligence, ETL, and other technologies involving python.
 - 📫 How to reach me ---> Educational institution email : luciano.c10@aluno.ifsc.edu.br and private email : lu.carbonera.lc@gmail.com
 
-  <hr>
+<hr>
 <h4> 🔥 Habilidades e tecnologias ja vistas sendo aperfeiçoadas 🔥</h4>
 <br>
 <p align="center">
