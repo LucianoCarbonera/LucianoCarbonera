@@ -6,7 +6,7 @@
 - 👀 I’m interested in development and systems analysis
 - 🌱 I’m currently learning cloud computing with Azure, and development with Python and Django.
 - 💞️ I'm looking to collaborate on projects using python, machine learning, business intelligence, ETL, and other technologies involving python.
-- 📫 How to reach me ---> Educational institution email : luciano.c10@aluno.ifsc.edu.br and private email : lu.carbonera.lc@gmail.com
+- 📫 How to reach me ---> Educational institution email : <code><img title="IFSC" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/css.svg"></code> luciano.c10@aluno.ifsc.edu.br and private email : lu.carbonera.lc@gmail.com
 
 <hr>
 <h4> 🔥 Habilidades e tecnologias ja vistas sendo aperfeiçoadas 🔥</h4>
