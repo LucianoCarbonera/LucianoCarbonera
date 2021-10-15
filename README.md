@@ -13,7 +13,7 @@
 <br>
 <p align="center">
   
-   <code><img title="Azure" height="25" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgNwKWUcQ1A0n91D9rroGiGD_qppuPN39XSA&usqp=CAU"></code>
+   <code><img title="Azure" height="25" src="https://www.vhv.rs/dpng/d/561-5613230_azure-logo-png-transparent-png.png"></code>
    <code><img title="Python" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/python-original.svg"></code>
    <code><img title="Django" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/django.png"></code>
    <code><img title="Javascript" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/javascript.svg"></code>
