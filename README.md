@@ -3,10 +3,15 @@
    [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucianoCarbonera)](https://github.com/LucianoCarbonera) 
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-carbonera-9bb6b7181/)](https://www.linkedin.com/in/luciano-carbonera-9bb6b7181/)
    
+   
 - 👀 I’m interested in development and systems analysis
 - 🌱 I’m currently learning cloud computing with Azure, and development with Python and Django.
 - 💞️ I'm looking to collaborate on projects using python, machine learning, business intelligence, ETL, and other technologies involving python.
-- 📫 How to reach me ---> Educational institution email : luciano.c10@aluno.ifsc.edu.br and private email : lu.carbonera.lc@gmail.com
+- 📫 Educational institution email ---> luciano.c10@aluno.ifsc.edu.br 
+<a href = "mailto:luciano.c10@aluno.ifsc.edu.br"><img title="IFSC" height="25" src="https://www.caroli.org/wp-content/uploads/2019/04/email-logo.png"></a>
+- 📫 Private email -----------------------> lu.carbonera.lc@gmail.com 
+<a href = "mailto:lu.carbonera.lc@gmail.com"><img title="Gmail" height="25" src="https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png"></a>
+
 
 <hr>
 <h4> 🔥 Habilidades e tecnologias ja vistas sendo aperfeiçoadas 🔥</h4>
@@ -28,4 +33,12 @@
 
 </p>
 <hr>
+<div align="center">
+  <a href="https://github.com/LucianoCarbonera">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=LucianoCarbonera&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoCarbonera&layout=compact&langs_count=8&theme=blue-green"/>
+</div>
+
+
 
