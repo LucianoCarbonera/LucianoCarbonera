@@ -20,10 +20,10 @@
   <code><img title="CSS" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/css.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/vscode.png"></code>
-  <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/json.svg"></code>e>
+  <code><img title="JSON" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/json.svg"></code>
   <code><img title="GitHub" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/github.svg"></code>
   <code><img title="PHP" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/php.svg"></code>
-   <code><img title="Ionic" height="25" src="https://ionicframework.com/img/meta/logo.png"></code>
+  <code><img title="Ionic" height="25" src="https://ionicframework.com/img/meta/logo.png"></code>
   
 </p>
 <hr>
