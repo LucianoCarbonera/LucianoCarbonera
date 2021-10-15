@@ -9,11 +9,11 @@
 - 📫 How to reach me ---> Educational institution email : luciano.c10@aluno.ifsc.edu.br and private email : lu.carbonera.lc@gmail.com
 
   <hr>
-<h2 align="center">🔥 Algumas das minhas habilidades e tecnologias ja vistas 🔥</h2>
+<h4 align="center">🔥 Algumas das minhas habilidades e tecnologias ja vistas 🔥</h4>
 <br>
 <p align="center">
 
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
+  <code><img title="Python" height="25" src="https://raw.githubusercontent.com/zumrudu-anka/zumrudu-anka/master/images/python-original.svg"></code>
   <code><img title="Django" height="25" src="images/django.png"></code>
   <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
