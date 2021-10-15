@@ -9,7 +9,7 @@
 - 📫 How to reach me ---> Educational institution email : luciano.c10@aluno.ifsc.edu.br and private email : lu.carbonera.lc@gmail.com
 
   <hr>
-<h4 align="center">🔥 Algumas das minhas habilidades e tecnologias ja vistas 🔥</h4>
+<h4 🔥 Algumas das minhas habilidades e tecnologias ja vistas 🔥</h4>
 <br>
 <p align="center">
 
