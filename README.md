@@ -5,8 +5,8 @@
    
    
 ### 👀 Development and systems analysis
-- 🌱 I’m currently learning cloud computing with Azure, and development with Python and Django.
-- 💞️ I'm looking to collaborate on projects using python, machine learning, business intelligence, ETL, and other technologies involving python.
+
+
 - 📫 Educational institution email ---> luciano.c10@aluno.ifsc.edu.br 
 <a href = "mailto:luciano.c10@aluno.ifsc.edu.br"><img title="IFSC" height="25" src="https://www.caroli.org/wp-content/uploads/2019/04/email-logo.png"></a>
 - 📫 Private email -----------------------> lu.carbonera.lc@gmail.com 
