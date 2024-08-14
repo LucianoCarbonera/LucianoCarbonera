@@ -1,9 +1,8 @@
    # 👋 Hi, I’m Luciano Carbonera 
 
-   Apaixonado por tecnologia. Atualmente atuando com automações e IA. 
-- Python - OpenAI API - Docker Swarm - N8N - Typebot - Wordpress - Servidor Cloud
+   Apaixonado por tecnologia. Atualmente atuando com automações de ponta a ponta fazendo uso de IA, desenvolvimento de integrações com Python, criação de microsserviços com Docker, criação de e-commerces.
 
-Tenho experiência com: Python | Django | Java | Spring | PHP | Laravel | JavaScript | Microsserviços | Docker | Portainer | RabbitMQ | Git | API Rest | Banco de Dados Relacional (PostgreSQL) | Modelos ágeis (SCRUM e KANBAM) | Linux (shell, crontab, etc).
+Tenho experiência com: Python | IA | Django | Java | Spring | PHP | Laravel | JavaScript | Microsserviços | Docker | RabbitMQ | Git | API Rest | PostgreSQL | Scrum | Linux .
 
 Tenho voltado meus estudos a área de Cloud Computing e microsserviços : AWS | Docker | Kubernetes.
    
