@@ -2,9 +2,7 @@
 
    Apaixonado por tecnologia. Atualmente atuando com automações de ponta a ponta fazendo uso de IA, desenvolvimento de integrações com Python, criação de microsserviços com Docker, criação de e-commerces.
 
-Tenho experiência com: Python | IA | Django | Java | Spring | PHP | Laravel | JavaScript | Microsserviços | Docker | RabbitMQ | Git | API Rest | PostgreSQL | Scrum | Linux .
-
-Tenho voltado meus estudos a área de Cloud Computing e microsserviços : AWS | Docker | Kubernetes.
+Tenho experiência com: IA | Python | Django | Docker | Microsserviços | RabbitMQ | Postgres | Linux | N8N | Typebot | Java | Spring | JavaScript | Git | API Rest | Scrum
    
    [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/LucianoCarbonera)](https://github.com/LucianoCarbonera) 
    [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luciano-carbonera-9bb6b7181/)](https://www.linkedin.com/in/luciano-carbonera-9bb6b7181/)
